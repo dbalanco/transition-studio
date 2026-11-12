@@ -1,0 +1,8 @@
+{
+  "name": "Remix Omni Transition Studio",
+  "description": "Drop in a first and last frame, generate the transition between them with presets or refine further with a prompt box using Omni Flash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
